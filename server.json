@@ -1,0 +1,60 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2023-01-28T02:08:08.699Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburger",
+      "type": "outcome",
+      "category": "alimentação",
+      "price": 50,
+      "createdAt": "2023-01-28T02:08:08.699Z"
+    },
+    {
+      "id": 3,
+      "description": "Ignite",
+      "type": "outcome",
+      "category": "Estudo",
+      "price": 130,
+      "createdAt": "2023-01-28T02:08:08.699Z"
+    },
+    {
+      "description": "Desenvolvimento de app",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2023-02-08T01:06:34.324Z",
+      "id": 4
+    },
+    {
+      "description": "Iogurte de Banana",
+      "price": 4,
+      "category": "Alimentação",
+      "type": "income",
+      "createdAt": "2023-02-08T01:27:14.400Z",
+      "id": 5
+    },
+    {
+      "description": "desenvolvimento",
+      "price": 10000,
+      "category": "programação",
+      "type": "income",
+      "createdAt": "2023-02-10T01:15:35.905Z",
+      "id": 6
+    },
+    {
+      "description": "1212",
+      "price": 12,
+      "category": "adasdasd",
+      "type": "income",
+      "createdAt": "2023-05-21T02:59:40.354Z",
+      "id": 7
+    }
+  ]
+}
